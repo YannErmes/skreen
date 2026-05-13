@@ -1,0 +1,13 @@
+# Vercel Build Ignore
+node_modules/
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+.wrangler/
+.dev.vars
+.vscode
+.idea
+.DS_Store
+*.log
+.env
