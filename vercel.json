@@ -1,7 +1,5 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "regions": ["iad1"],
-  "nodeVersion": "20.x"
+  "outputDirectory": "dist"
 }
+
